@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi there! I'm Xi"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Computer Science](https://jsj.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). My research interest includes computer vision, robotics, machine learning, and embodied AI.
+I'm a senior undergraduate student from [School of Computer Science](https://jsj.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). My research interest includes large language models(LLMs), natural language processing(NLP), computer vision, robotics and machine learning.
 
 You can find my CV here: [Xi Chen's Curriculum Vitae](../assets/chenxi_cv.pdf).
 
